@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "semana5_reproductor_de_video"
